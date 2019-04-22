@@ -15,7 +15,7 @@ This is GoogleTranslate by translate.google.cn project.
 
 **ps**:_自己开发工具来简化自己写多语言的工作量，何乐而不为_。
 
-**运行方式**:_再 nodejs 目录执行命令 node server_。
+**运行方式**:_在 nodejs 目录执行命令 node server_。
 
 > 代码内容为通过网络和自己的实践修改来完善的，其中 gettk.js 知识点比较多，本想着转到 NodeJS 来写，发现写完后很多算法并不是很容易切换，如果有更好的把这个转换为 NodeJS 代码的 idea，请提交您的代码公开给大家，我也可以从中学习
 
